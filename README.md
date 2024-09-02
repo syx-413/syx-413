@@ -18,4 +18,3 @@ You can click the Preview link to take a look at your changes.
 
 [Keil_SDCC_convert](https://blog.shao413.cn/Keil-C51-C-to-SDCC-C-Converter/)
 
-[Mdjnuthesis(LaTeX)](https://blog.shao413.cn/Mdjnuthesis)
