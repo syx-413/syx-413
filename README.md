@@ -1,5 +1,5 @@
-- Hi, this is 413!
-  😊😊😊😊😊😊
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=435&lines=Hi%2C+this+is+413!+%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A+)](https://git.io/typing-svg)
+
 -Undergraduate in Electronic Information Science and Technology
 
 <!-- 
