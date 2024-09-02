@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syx-413&layout=pie)](https://github.com/syx-413/github-readme-stats)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syx-413&layout=compact)](https://github.com/syx-413/github-readme-stats)
 ## fortran
