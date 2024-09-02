@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=66CCFF&width=435&lines=Hi%2C+this+is+413!+%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A+)](https://git.io/typing-svg)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syx-413&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syx-413&layout=pie)](https://github.com/syx-413/github-readme-stats)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syx-413&layout=compact)](https://github.com/syx-413/github-readme-stats)
 ## fortran
