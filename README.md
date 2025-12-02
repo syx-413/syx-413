@@ -15,7 +15,6 @@ syx-413/syx-413 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## Web 
-[blog](https://blog.shao413.cn/)
+[blog](https://s413.blog/)
 
-[Keil_SDCC_convert](https://blog.shao413.cn/Keil-C51-C-to-SDCC-C-Converter/)
 
